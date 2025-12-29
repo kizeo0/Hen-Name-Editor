@@ -1,0 +1,4 @@
+AUTOHEN=Instalado desde el Videohost/cualquier web con autohen
+HEN OFICIAL=Instalado desde PS3XPLOIT
+
+Ambos testeados en 4.92. 
