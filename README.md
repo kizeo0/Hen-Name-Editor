@@ -11,5 +11,4 @@ Ambos testeados.
 
 
 
-<img width="596" height="629" alt="image" src="https://github.com/user-attachments/assets/dbbdd4cb-a11b-4eea-a007-d640acfc4a59" />
-
+<img width="650" height="729" alt="image" src="https://github.com/user-attachments/assets/1c365628-3b1c-467e-8955-03c8a0ffe052" />
